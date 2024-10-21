@@ -21,6 +21,10 @@ header {
     left: 0%;
     top: 0%;
 }
+.site-logo-container{
+    width:80px
+    
+}
 #site-logo{
     width: 70px;
     position: absolute;
